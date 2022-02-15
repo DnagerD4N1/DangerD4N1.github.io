@@ -1,0 +1,25 @@
+body {
+ background-image: url("../gifs/Stars.gif");
+ background-color: #cccccc;
+}
+.title {
+    color: white;
+    text-align: center;
+
+}
+.xpimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.winxp {
+    color: white;
+    text-align: center;
+}
+.gifs {
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
